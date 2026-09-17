@@ -1,3 +1,3 @@
 # ESP32 LED BLINK
-##AIM:
+## AIM:
 To blink an LED connected to ESP32 at 1Hz
