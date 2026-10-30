@@ -332,5 +332,3 @@ finally:
 | 5 | Raspberry Pi Switch Controlled LED | Raspberry Pi | Digital Input + Output (BCM) |
 
 ---
-
-*PEMRT525 — IoT & Applications | S5 MR 2K24 | Department of Mechatronics Engineering | Jyothi Engineering College (Autonomous), Thrissur*
